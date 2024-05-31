@@ -55,6 +55,7 @@ import * as $$$$$$43 from "./sections/Product/Wishlist.tsx";
 import * as $$$$$$44 from "./sections/Social/InstagramPosts.tsx";
 import * as $$$$$$45 from "./sections/Social/WhatsApp.tsx";
 import * as $$$$$$46 from "./sections/Theme/Theme.tsx";
+import * as $$$$$$47 from "./sections/Weather.tsx";
 
 const manifest = {
   "loaders": {
@@ -114,6 +115,7 @@ const manifest = {
     "deco-sites/joao-tec4u/sections/Social/InstagramPosts.tsx": $$$$$$44,
     "deco-sites/joao-tec4u/sections/Social/WhatsApp.tsx": $$$$$$45,
     "deco-sites/joao-tec4u/sections/Theme/Theme.tsx": $$$$$$46,
+    "deco-sites/joao-tec4u/sections/Weather.tsx": $$$$$$47,
   },
   "apps": {
     "deco-sites/joao-tec4u/apps/decohub.ts": $$$$$$$$$$$0,
